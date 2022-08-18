@@ -14,5 +14,5 @@ I'm a Software Engineer and Accountant. I'm passionate about sharing knowledge, 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaius388&show_icons=true&include_all_commits=true&hide_border=true" alt="Gaius's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaius388&langs_count=8&layout=compact&hide_border=true" alt="Gaius's GitHub stats" /> |
 | ------------- | ------------- |
