@@ -7,7 +7,7 @@ I'm a Software Engineer and Accountant. I'm passionate about sharing knowledge, 
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 🌱 I’m currently learning JavaScript, Reactjs, and R.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Cloud Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1ORMBf2JZLchIwJKgbXcqwemVM7l6SmSy/view?usp=drivesdk) and contact me by emailing gaiusolawale@gmail.com.
