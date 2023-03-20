@@ -10,7 +10,7 @@ I'm a Software Engineer and Accountant. I'm passionate about sharing knowledge, 
 - 🌱 I’m currently learning JavaScript, Reactjs, and R.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Cloud Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1ORMBf2JZLchIwJKgbXcqwemVM7l6SmSy/view?usp=drivesdk) and contact me by emailing gaiusolawale@gmail.com.
+- 📫 You can [view my resume]([https://drive.google.com/file/d/1ORMBf2JZLchIwJKgbXcqwemVM7l6SmSy/view?usp=drivesdk](https://drive.google.com/file/d/1iD2lXSJucywhk8K_QQufMCh88bAx-BsR/view?usp=share_link)) and contact me by emailing gaiusolawale@gmail.com.
 
 ---
 
