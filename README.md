@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-(https://altschoolafrica.com/schools/engineering) [![Linkedin Badge](https://img.shields.io/badge/-gaiusolawale-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaiusolawale)](https://www.linkedin.com/in/gaiusolawale) [![Twitter Badge](https://img.shields.io/badge/-@gaius38-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/gaius38)](https://twitter.com/gaius38)
+[![Linkedin Badge](https://img.shields.io/badge/-gaiusolawale-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaiusolawale)](https://www.linkedin.com/in/gaiusolawale) [![Twitter Badge](https://img.shields.io/badge/-@gaius38-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/gaius38)](https://twitter.com/gaius38)
 
 I'm a Software Engineer and Accountant. I'm passionate about sharing knowledge, documentation, web engineering, headless commerce, and others. I am an aspiring technical writer, and very interested in building projects as part of a team.
 **Here's a quick summary about me**:
